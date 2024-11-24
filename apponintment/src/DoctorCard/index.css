@@ -1,0 +1,118 @@
+.doctor{
+    height: 500px;
+    width: 300px;
+    background-color: #FFF7E2;
+    border: 1px solid #FFF7E2;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.card-item{
+    display: flex;
+    align-items: center;
+    margin:5px 0;
+}
+
+
+.sex-icon{
+    padding-top: 14px;
+}
+
+
+.doctor-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.text{
+    color: #646665;
+    font-size: 16px;
+}
+
+.icon{
+    padding-right: 10px;
+}
+
+.consultation-card{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+.consultation{
+    display: flex;
+}
+
+.price{
+    color:#3A643B;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+
+}
+
+.text-2{
+    color:#3C3C3C;   
+    padding: 0;
+    margin: 0; 
+}
+
+
+.card{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.profile{
+    background-color: white;
+    border: 1px solid #3A643B;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.button5{
+    height: 42px;
+    width: 280px;
+    padding: 5px;
+    border-radius: 8px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.book{
+    background-color: #3A643B;
+    color: white;
+    font-size: 16px;
+    border: none;
+
+}
+
+
+.card-item1{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.card-item2{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

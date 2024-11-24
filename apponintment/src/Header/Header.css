@@ -1,0 +1,80 @@
+.Header-container{
+    height: 94px;
+    background-color: #FFF7E2;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.inner-container{
+    display: flex;
+    height: 56px;
+}
+
+.title{
+    color: #3A643B;
+    padding-left: 16px;
+    padding-right: 200px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Links{
+    height: 28px;
+    display: flex;
+    padding-right: 250px;
+    padding-top: 10px;   
+    align-self: center; 
+    cursor: pointer;
+}
+
+.buttons{
+    height: 56px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.text1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #474747;
+    padding-right: 20px;
+    
+}
+
+.special{
+    font-size: 25px;
+    color: #3A643B;
+    font-weight: 500;
+    padding-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.login{
+    height: 56px;
+    width: 120px;
+    background-color: transparent;
+    border: 2px solid #3A643B;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.sign{
+    height: 56px;
+    width: 120px;
+    background-color: #3A643B;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-right: 10px;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+
+
+.no-underline {
+  text-decoration: none; /* Removes the underline */
+}

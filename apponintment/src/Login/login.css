@@ -1,0 +1,53 @@
+.title1{
+    color: #3A643B;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+}
+
+.button{
+    height: 42px;
+    width: 286px;
+    padding: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #3A643B;
+    color: white;
+    font-size: 16px;
+    margin-top: 17px;
+    border: none;
+}
+
+
+.inputel{
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+.login-box{
+    border: 1px solid black;
+    height: 300px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.login-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.label-container{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+
+.label-text{
+    padding-bottom: 5px;
+}
